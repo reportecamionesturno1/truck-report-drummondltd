@@ -63,7 +63,7 @@ Cada reporte enviado genera:
 ## 🚀 Enlace de la Aplicación
 
 **[Acceso al formulario en línea](#)**  
-_(Agrega aquí tu enlace de despliegue de la WebApp o tu hosting)_
+(https://reportecamionesturno1.github.io/truck-report-drummondltd/)
 
 ---
 
